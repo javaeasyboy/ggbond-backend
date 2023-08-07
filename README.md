@@ -51,8 +51,8 @@
 ![image](https://github.com/javaeasyboy/ggbond-backend/assets/134832798/621270d3-9af2-4384-8f54-7107b0296326)
 
 
+![image](https://github.com/javaeasyboy/ggbond-backend/assets/134832798/6da9ed9a-6d66-4530-b26a-50d10a88847c)
 
-<img src="images/微信截图_20230806133141.png" alt="微信截图_20230806133141" style="zoom:67%;" />
 
 
 
